@@ -11,4 +11,4 @@ url = "https://www.instagram.com/"
 driver.get(url=url)
 
 xpath = '//*[@id="loginForm"]/div/div[1]/div/label/input'
-# time.sleep(20)
+time.sleep(20)
